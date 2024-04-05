@@ -15,7 +15,7 @@
 	</repositories>
 
     <properties>
-        <com.squareup.retrofit2.version>2.6.0</com.squareup.retrofit2.version>
+        <com.squareup.retrofit2.version>2.11.0</com.squareup.retrofit2.version>
     </properties>
 
     <dependencies>
